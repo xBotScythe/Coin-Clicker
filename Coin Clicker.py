@@ -2,9 +2,7 @@
 # Cookie Clicker-esque game
 from turtle import *
 from tkinter import * 
-from tkinter import ttk
 import tkinter as tkin
-import sched, time
 from PIL import Image, ImageTk
 
 # window setup
